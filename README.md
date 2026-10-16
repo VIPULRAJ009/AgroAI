@@ -106,7 +106,7 @@ This ensures high accuracy (>95%) and resilience against localized anomalies (li
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/animeshtripathii/AgroAI.git
+git clone https://github.com/VIPULRAJ009/AgroAI.git
 cd AgroAI
 ```
 
